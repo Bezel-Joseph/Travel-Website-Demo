@@ -473,25 +473,6 @@ margin-left: auto;
 }
 
 }
-#footer{
-    
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    
-    
-    
-}
-.fa-heart-o
-{
-    margin: 3px;
-    color: red;
-}
-
-
-
-
-
 
 
 
@@ -651,7 +632,7 @@ margin-left: auto;
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: 100px;
+  margin-left: 85px;
 }
 ::placeholder{
     color: #000;
@@ -704,6 +685,9 @@ margin-left: auto;
 .foot{
     color: ghostwhite;
 }
+
+
+
 
 
 
