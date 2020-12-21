@@ -632,7 +632,7 @@ margin-left: auto;
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: 85px;
+  margin-left: 70px;
 }
 ::placeholder{
     color: #000;
